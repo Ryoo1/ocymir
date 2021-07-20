@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ryoo-cloud",
+  "private_key_id": "a2ca3f334cbad883793f328615860ce5727b8130",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwByZcDR773MJD\n65zqr0xkNgdgKUgIBxMYajODAhkcllXMR03TyQWYGqBgtiSKf4iJRU+3HoT3B3+a\n+wh85nhALBsvD97MRsMmVO/azeksIrUWaoCrhEJVl8Bi2dVgVSnXd1XPJtV53+EX\nLyOyQk5Th0zpOf+ISF0codydEo8ZgynSEymChBwfUB+X2UsGHnE7OAajb6caJMxW\ndxcDSMhLofmivD8aRQJ0U+Q1YpBjowThTqBb7OKfN/kZCYb8fXkIcoisgafFlOqW\nMDxrBfL5/pYVh3d9K+DKMVaxgcMXsTzmNvJP2wXsrntgHCIc+JG8ZUgwJoZP9VIO\nKibCkMtFAgMBAAECggEAI2MclA7TNsDXkP3xysA49EBkVTGXWH3LmfHnryOh1rxm\nPS3seHIGHODlcuvLBsjCsw3rC54oDt1ECu0CdNGERSpYwKpJGPn0y2Tx3yPcB1Jm\n4z2/5jstdrWOKJEwMzCLu9QyvPVKnzihsJ56Z6CqzGH71TsioswhY9sqVa1gdTky\ntwLcgmEPFcPSZ3w+6bPo9lo6/AIBcrw+Pji2XZmew2ZwLKy2d88ErO2gbjO1mmgY\n58k9WKDEtFCyPfOz1U3exT2ac5SiQMdTUKQ4nGmgnFssAeehzUgakTU2VyosPi25\nMuS4IdAGwcU+1Zwec8tCoaPoGEzQ/vvLjB5CBOrQFQKBgQDX4GbBhIj9S8DSpr/0\nrb63NTsOuy2sMXO0VBrrvvzU90IU2nMjH/0xEi6+GY0hVqF7Ljpzt2DCnylQhW1q\nqF9Nc55nwRuSdPN5D6sA6G/JN9ux/+LoN+X8iPdgiVVR0IjHT0F+8FmFRCKum/JV\nMsbNfquuCkjHI/CcjabaFgun+wKBgQDQvrcBWrGB/CIJyH7a7BIHlfdYqu88M4aK\nd3hQEAJDF6ZMrSSdlwnOFMkUPFuqRgCPbxGCgoCijcIDST/bkNg80HRNWqNaA5iP\n0ZIrHiABHAvqsINHzlbbizQaLJgFx8BXk55IrGPmA1iMm9hsXXuJbRsrRagXvbvL\nZvIhOS61vwKBgDYKcO7E1N5D1nNlVuxTikimxK/9X4OZpZNg8pRNbVGKzDoYLXZ/\njYx5NsZT8yaDX01M10kcgNZ3rYoAvNFUcPccmGz0xIg3SrPlnjNN/J3so8y9d/oV\n9Dbxuqup9XfTsknip0y1slNQKTZ4x4NYgLf0m9mnrWxcrOEj/L7fge99AoGAbHEH\nJT72RC61iBuOOzC0VRiFPJzgV4f09u4FpKIMaspYbDDueqfCQjruEwMgI57mH511\nnTUqmkfGaGqfL/NZQo6QPLc/cT24/c3Df37Q5YKqditop977pGX2lTphZ29T7qsT\naXGVHCLU14cGsZUG3me924b+QgchDhPW6YeJSoUCgYEAnjFZQRrV92wW5ZZ79GoB\nFy8f5Cs/zkeBo/Xhz6veRP5gHERhVQ6mI6pveRqKhSjVV38HDzSzZe6tP+2fjW4/\nQ8ea31+vEK4A95Kcpum5GVL/rcBUxouHP/kxfXW+tfcvhpDA4giV3dcRpE30S5C/\ntI/W5m8gc31Yo8551Gm+/tI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-08tevbf1w7c2-mehn4aj1231hw@ryoo-cloud.iam.gserviceaccount.com",
+  "client_id": "109367247047134292467",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-08tevbf1w7c2-mehn4aj1231hw%40ryoo-cloud.iam.gserviceaccount.com"
+}
